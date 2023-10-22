@@ -1,0 +1,30 @@
+/* 
+author: Nika dangadze
+FB: https://www.facebook.com/nickolas.danga.3
+Gmail: Nicolas.danga1997@gmail.com
+Tel : 595519091 
+*/
+
+/* დანაზოგის სტილები */
+.webcafe_danazogi {
+    color: #000000;
+    margin-top: -29px;
+    font-size: 12px;
+    font-family: monospace;
+    text-align: center;
+    background: #439665d6;
+    border-radius: 4px;
+    padding: 8px 19px 5px 19px;
+}
+
+/* განვადების სტილები */
+.webcafe_gaanvadeba {
+    margin-top: 8px;
+    color: #030303;
+    font-family: monospace;
+    font-size: 14px;
+    border-radius: 4px;
+    border-color: red;
+    padding: 4px 6px 4px 6px;
+    background: #5fa77e;
+}
